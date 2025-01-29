@@ -1,0 +1,18 @@
+# Ignore temporary files
+tmp/
+*.tmp
+
+# Ignore zip files
+*.zip
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment directories
+venv/
+env/
+
+.gitconfig
